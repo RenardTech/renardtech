@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Nos Services</title>
+</head>
+<body>
+        <!--Barre de Menu-->
+        <nav class="navbar">
+            <div class="logo">
+                <h1><span style="color: blue;">R</span>enard Tech</h1>
+            </div>
+            <div class="liens">
+                <ul>
+                    <li><a id="acceuil" href="index.html">Home</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="bouton-sms">
+        
+                    <a class="btn" href="https://wa.me/22893274503">let's chat</a>
+                
+            </div>
+        </nav>
+        <menu class="menu">
+            <div>
+                <h1>Renard Tech</h1>
+                <h2>Vous etes sur la page qui vous présente  tous nos services</h2>
+            </div>
+        </menu>
+        <section class="services">
+            <div class="service">
+                <img src="1562687-code-computer-creative-html-process-technology-web-development_107058.png" alt="dev">
+                <h3>Developpement d'appli</h3>
+                <ul>
+                    <li>Conception de design</li>
+                    <li>Création et hébergement</li>
+                    <li>Maintenance d'appli actives</li>
+                    <li>Mises à jour de fonctionnalités</li>
+                </ul>
+            </div>
+            <div class="service">
+                <img src="system_maintenance_15367.png" alt="maintenance">
+                <h3>Maintenance Informatique</h3>
+                <ul>
+                    <li>Installationd'imprimantes et de photocopieurs</li>
+                    <li>Installation & mise à jour de pilotes, Anti Virus etc...</li>
+                    <li>Réparation de tous panes, materiels comme logiciels</li>
+                    <li>Installation de systemes d'exploitation(Windows, macOS, unix)</li>   
+                </ul>
+            </div>
+            <div class="service">
+                <img src="address_web_world_webmanagement_process_2366.png" alt="Redaction web">
+                <h3>Redaction web</h3>
+                <ul>
+                    <li>Détermination de besoins et apport de sujets</li>
+                    <li>Rédaction de contenus(articles, annonce...)</li>
+                    <li>Saisie et traduction de contenus</li>
+                </ul>
+            </div>
+        </section>
+</body>
+<footer>
+    <p>Copyrigth &copy; | by Hervades 2024</p>
+</footer>
+</html>

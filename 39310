@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Contact</title>
+</head>
+<body>
+            <!--Barre de Menu-->
+            <nav class="navbar">
+                <div class="logo">
+                    <h1><span style="color: blue;">R</span>enard Tech</h1>
+                </div>
+                <div class="liens">
+                    <ul>
+                        <li><a id="acceuil" href="index.html">Home</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="bouton-sms">
+            
+                        <a class="btn" href="https://wa.me/22893274503">let's chat</a>
+                    
+                </div>
+            </nav>
+    <div class="map">
+        <iframe src="https://maps.app.goo.gl/TDnuR5NHNU8PkwPS8" width="100%" height="50%" frameborder="0"></iframe>
+    </div>
+    <section class="page-contact">
+        <div class="coordonne">
+            <h3>Nos Coordonnées</h3>
+            <h5>Nous nous tenons à votre disposition pour toute demande d'information concernant nos services</h5>
+            <h4>&Map; Adetikope Togo</h4>
+            <h5>Nous nous situons à Adetikope, dans le quartier Kladjeme non loin du cimétiere</h5>
+            <ul>
+                <li>Disponible 24h/24</li>
+                <li>Ouvert du Dimanche à Vendredi</li>
+            </ul>
+        </div>
+        <div class="formulaire">
+            <h3>Nos Adresses Réseaux Sociaux</h3>
+            <div class="reseaux">
+                <div class="add">
+                    <a href="https://www.facebook.com/profile.php?id=61556484551163">
+                        <img src="—Pngtree—facebook social media icon_8704814.png" alt="facebook">
+                    </a>
+                    <a href="http://t.me/hervade">
+                        <img src="telegram_icon-icons.com_72055.png" alt="telegram">
+                    </a>
+                </div>
+                <div class="add">
+                   <a href="https://wa.me/22893274503">
+                    <img src="Whatsapp_icon-icons.com_66931.png" alt="whatsapp">
+                   </a>
+                    <a href="https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav">
+                        <img src="social_balloon_linkedin_24545.png" alt="Linkedln">
+                    </a>
+                </div>
+                <div class="add">
+                    <a href="mailto:hervadesdev@yaooh.com">
+                        <img src="google_mail_gmail_logo_icon_159346.png" alt="email">
+                    </a>
+                    <a href="https://twitter.com/EkpeleA">
+                        <img src="Twitter_icon-icons.com_66803.png" alt="twitter">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

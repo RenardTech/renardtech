@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Home</title>
+</head>
+<body>
+    <!--Barre de Menu-->
+    <nav class="navbar">
+        <div class="logo">
+            <h1><span style="color: blue;">R</span>enard Tech</h1>
+        </div>
+        <div class="liens">
+            <ul>
+                <li><a id="acceuil" href="#">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+        <div class="bouton-sms">
+    
+                <a class="btn" href="https://wa.me/22893274503">let's chat</a>
+            
+        </div>
+    </nav>
+    <!--Fin Barre de Menu-->
+
+    <!--Contenu du corps de la page-->
+    <section class="contenu">
+       <div class="presentation">
+            <div class="identite">
+                <div class="id">
+                    <h4><span>Developpeur Frontend </span> <span>|Redacteur web</span></h4>
+                </div>
+                <div class="intro">
+                    <h4><span>B</span>ienvenue <span>D</span>ans Mon <span>M</span>onde</h4>
+                </div>
+                <div id="about">
+                    <h4>A PROPOS DE MOI</h4>
+                    <P>Je suis Kouméa Abalo EKPELE et prȇt à vous servir dans le domaine du web. J'interviens aussi dans la Maintenance Informatique</P>
+                </div>
+            <div class="bouton">
+                <a href="services.html" class="btn">Voir Nos Services</a>
+                <a href="monpdf.pdf" id="lire" class="btn">Télécharger pdf</a>
+            </div>
+            </div>
+       </div>
+       <div class="photo">
+        <img src="profil.jpg" alt="Photo de Profil">
+    </div>
+    </section>
+    <!--Fin Contenu du corps de la page-->
+</body>
+<script src="script.js"></script>
+</html>

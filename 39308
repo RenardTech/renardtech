@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>About</title>
+</head>
+<body style="background-color: whitesmoke;">
+    <nav class="navbar">
+        <div class="logo">
+            <h1><span style="color: blue;">R</span>enard Tech</h1>
+        </div>
+        <div class="liens">
+            <ul>
+                <li><a id="acceuil" href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+        <div class="bouton-sms">
+    
+                <a class="btn" href="https://wa.me/22893274503  ">let's chat</a>
+            
+        </div>
+    </nav>
+    <div class="reseau-band">
+        <a href="https://www.facebook.com/profile.php?id=61556484551163">
+            <img src="—Pngtree—facebook social media icon_8704814.png" alt="facebook">
+        </a>
+        <a href="https://twitter.com/EkpeleA">
+            <img src="Twitter_icon-icons.com_66803.png" alt="twiter">
+        </a>
+        <a href="https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav">
+            <img src="social_balloon_linkedin_24545.png" alt="Linkedln">
+        </a>
+    </div>
+    <menu class="about-menu">
+        <h1>Renard Thech</h1>
+        <h3>Votre assistant et conseiller technique pour tous vos soucis informatiques</h3>
+    </menu>
+    <section class="about-section">
+        <h2>Qui suis-je?</h2>
+        <p id="name">Je suis <span>Kouméa Abalo EKPELE</span>, développeur frontend confirmé depuis 2022</p>
+        <h1>|Mes Compétences en Informatique|</h1>
+        <h3>Technologies</h3>
+        <ul>
+            <li>
+                <p>HTML5 : 100%</p>
+                <progress value="100" max="100"></progress>
+            </li>
+            <li>
+                <p>CSS3 : 97%</p>
+                <progress value="97" max="100"></progress>
+            </li>
+            <li>
+                <p>JQuery : 75%</p>
+                <progress value="75" max="100"></progress>
+            </li>
+            <li>
+                <p>Bootstrap : 80%</p>
+                <progress value="80" max="100"></progress>
+            </li>
+        </ul>
+        <h3>Langages de programmation</h3>
+        <ul>
+            <li>
+                <p>JavaScript : 75%</p>
+                <progress value="75" max="100"></progress>
+            </li>
+            <li>
+                <p>Python : 50%</p>
+                <progress value="50" max="100"></progress>
+            </li>
+            <li>
+                <p>PHP : 40%</p>
+                <progress value="40" max="100"></progress>
+            </li>
+        </ul>
+        <h3>Frameworks</h3>
+        <ul>
+            <li>
+                <p>VueJs : 60%</p>
+                <progress value="60" max="100"></progress>
+            </li>
+            <li>
+                <p>Laravel : 40%</p>
+                <progress value="40" max="100"></progress>
+            </li>
+        </ul>
+        <h3>CMS</h3>
+        <ul>
+            <li>
+                <p>Wordpress : 80%</p>
+            <progress value="80" max="100"></progress>
+            </li>
+        </ul>
+        <h3>Autres Compétances</h3>
+        <ul>
+            <li>Maintenance softward & hardward</li>
+            <li>Web design Avec Figma</li>
+        </ul>
+    </section>
+</body>
+<footer>
+    <p>Copyrigth &copy; | by Hervades 2024</p>
+</footer>
+</html>
